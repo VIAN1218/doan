@@ -5,6 +5,8 @@
 }
 
 .head{
+   
+  
     background-color: black;
     justify-content: space-between;
     padding: 1rem 2rem;
@@ -517,4 +519,31 @@ h1{
 }
 .footer__copyRight {
     z-index: 100;
+}
+.footer-links2 {
+    background-color: #0c0c0c;
+    align-items: flex-start;
+    justify-content: space-between;
+ 
+    padding: 0 2rem;
+    z-index: 100;
+}
+.footer-links2_contact, .footer-links2_logo, .footer-links2_work{
+    flex: 1 1;
+    margin: 1rem;
+    text-align: center;
+}
+.footer2, .footer-links2 {
+    display: flex;
+    width: 100%;
+}
+.footer2_copyRight{
+    background-color: #0c0c0c;
+}
+#backtop{
+    background-color: rgb(61, 7, 7);
+}
+.fa-solid
+{
+    color: aqua;
 }
