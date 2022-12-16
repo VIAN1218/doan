@@ -547,3 +547,44 @@ h1{
 {
     color: aqua;
 }
+.thuchanh2{
+    margin-top: -9rem;
+    margin-left: 30rem;
+}
+.p_opensans_detail{
+    font-size: 30px;
+}
+.app_wrapper_img_detail{
+    width: 100;
+}
+
+.app__bg_app__wrapper{
+    background-image: url(https://reslanding.netlify.app/static/media/bg.3d421b1b5682e1b67deb.png);
+    background-attachment: fixed;
+    background-position: 50%;
+    background-repeat: repeat;
+    background-size: cover;
+   
+
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+.app__wrapper_img_app__wrapper_img-reverse{
+    align-items: center;
+    flex: 1 1;
+    margin-left: 2rem;
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    justify-content: flex-start;
+    margin-right: 2rem;
+}
+.img_detail2{
+    width: 600px;
+}
